@@ -7,3 +7,365 @@ https://lb1.one3up.com/hls/2fc52bec0042ff10683f89354653be61/2fc52bec0042ff10683f
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1,AnPT
 https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,5HD
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+#EXTINF:-1,NBT
+http://61.19.242.134/feed/202105171329/chnbt/index.m3u8
+#EXTINF:-1,THAI PBS
+http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
+#EXTINF:-1,THAIRATH
+http://61.19.242.134/feed/202105171329/chthairath/index.m3u8 
+#EXTINF:-1,NEWTV
+http://61.19.242.134/feed/202105171329/newtv/index.m3u8
+#EXTINF:-1,TNN
+http://61.19.242.134/feed/202105171329/chtnn/index.m3u8 
+#EXTINF:-1,NATION
+http://61.19.242.134/feed/202105171329/chnation/index.m3u8
+#EXTINF:-1,WORKPOINT
+http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8 
+#EXTINF:-1,TRUE4U
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8 
+#EXTINF:-1,GMM25
+http://61.19.242.134/feed/202105171329/chgmm/index.m3u8 
+#EXTINF:-1,CH8
+http://61.19.242.134/feed/202105171329/ch8/index.m3u8 
+#EXTINF:-1,MONO
+http://61.19.242.134/feed/202105171329/chmono29/index.m3u8 
+#EXTINF:-1,MCOT HD
+http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
+#EXTINF:-1,ONE
+http://61.19.242.134/feed/202105171329/chonehd/index.m3u8 
+#EXTINF:-1,3HD
+http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
+#EXTINF:-1,AMARIN
+http://61.19.242.134/feed/202105171329/chamarin/index.m3u8 
+#EXTINF:-1,7HD
+http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
+#EXTINF:-1,PPTV
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8 
+#EXTINF:-1,NEW
+http://61.19.242.134/feed/202105171329/newtv/index.m3u8
+#EXTINF:-1,TOPNEWS
+http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,BBC
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+#EXTINF:-1,boomerang
+http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8 
+#EXTINF:-1,toonee
+http://61.19.242.134/feed/202105171329/LC23/index.m3u8
+#EXTINF:-1,animax
+http://61.19.242.134/feed/202105171329/LC38/index.m3u8
+#EXTINF:-1,sanook
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1,ytn
+http://61.19.242.134/feed/202105171329/LC44/index.m3u8
+#EXTINF:-1,BooMerang
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25 
+#EXTINF:-1,Toonee
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/30
+#EXTINF:-1,ANIMAX
+http://139.99.71.104:8888/live/blink16/ui2kdxgads/37420.m3u8
+#EXTINF:-1,FWTOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1,Sanook
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1,Da Vinci Kids 
+http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,ZooMoo
+http://61.19.242.134/feed/202105171329/LC38/index.m3u8
+#EXTINF:-1,Baby TV
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Baby First 
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+#EXTINF:-1,CONTV Anime
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+#EXTINF:-1,Aniplus
+http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
+#EXTINF:-1,Cool Channel
+https://moviektu.com/Cool/playlist.m3u8
+#EXTINF:-1,FWMOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1,FWSOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1,CTB 
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,FusoMOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1,FusoMOV 2
+http://203.159.95.172:8081/live/banner003/playlist.m3u8                          
+#EXTINF:-1,Sun Movie
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1,Samurai
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1,Box Flim
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1,JKN
+http://61.19.242.134/feed/202105171329/LC24/index.m3u8
+#EXTINF:-1,SANOOK 
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1,FwToon
+https://tvonlineappitv.shortcm.li/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,AND TV online
+https://live.thaitvstream.com/play/andtv/index.m3u8
+#EXTINF:-1,Zeenung
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/26
+#EXTINF:-1,Channel8 Thailand 
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,Warner TV
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+#EXTINF:-1,Thrill
+http://61.19.242.134/feed/202105171329/LC26/index..m3u8
+#EXTINF:-1,comedy1
+http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+#EXTINF:-1,จอมยุทธ์
+https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunks.m3u8
+#EXTINF:-1,Cool Channel
+https://moviektu.com/Cool/playlist.m3u8
+#EXTINF:-1,CTB 
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,Sun Movie
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1,Samurai
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1,Movies World 1
+http://61.19.242.134/feed/202105171329/LC11/index.m3u8
+#EXTINF:-1,Snook
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1,ZeeNung
+http://61.19.242.134/feed/202105171329/LC5/index.m3u8
+#EXTINF:-1,Box Film
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1,Warner TV
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+#EXTINF:-1,Thrill
+http://61.19.242.134/feed/202105171329/LC26/index.m3u8
+#EXTINF:-1,SurutTv
+https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+#EXTINF:-1,AETV
+https://live1.thaitvstream.com/play/aetv/index.m3u8
+#EXTINF:-1,SiamTV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1,GOLIVE
+https://live1.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1,หนองคายทีวี
+https://live1.thaitvstream.com/play/nongkhaichannel/index.m3u8
+#EXTINF:-1,Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1,PRETV
+https://live.thaitvstream.com/play/pretv/index.m3u8
+#EXTINF:-1,Vte       
+https://livefta.malimarcdn.com/ftaedge00/vlctemple.sdp/chunklist.m3u8
+#EXTINF:-1,MvLao
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1708989851.m3u8
+#EXTINF:-1,ລາວຈຳປາ
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+#EXTINF:-1,ລາວຈຳປາ2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1,ໂອ້ ເມືອງລາວ
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:-1,ໂອຍລາວ
+https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
+#EXTINF:-1,Airtv
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/chunklist.m3u8
+#EXTINF:-1,MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1,MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1,MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1,MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1,Channel V
+http://61.19.242.134/feed/202105171329/LC14/index.m3u8
+#EXTINF:-1,Nat Geo
+https://rbx-n2.worldwidetv.club/mfeoit8432kda4g/liveorigin/hd-natgeo_720/chunks.m3u8
+#EXTINF:-1,Sumrujlok
+http://61.19.242.134/feed/202105171329/LC8/index.m3u8
+#EXTINF:-1,MySci 
+http://61.19.242.134/feed/202105171329/LC37/index.m3u8
+#EXTINF:-1,BS TOKYO
+http://211.21.12.236:11935/live/bs06.stream/playlist.m3u8
+#EXTINF:-1,TOKYO MX
+http://211.21.12.236:11935/live/gd08.stream/playlist.m3u8
+#EXTINF:-1,TOKYO MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1,TV OSAKA
+http://211.21.12.236:11935/live/gx07.stream/playlist.m3u8
+#EXTINF:-1,TV ASAHI
+http://211.21.12.236:11935/live/gd06.stream/playlist.m3u8
+http://51.79.193.108:8080/hls/j00014/index.m3u8?type=jp
+#EXTINF:-1,BS ASAHI
+http://211.21.12.236:11935/live/bs03.stream/playlist.m3u8
+#EXTINF:-1,FUJI TV
+http://211.21.12.236:11935/live/gd05.stream/playlist.m3u8
+#EXTINF:-1,BS FUJI
+http://211.21.12.236:11935/live/bs05.stream/playlist.m3u8
+#EXTINF:-1,NIPPON TV
+http://211.21.12.236:11935/live/gd03.stream/playlist.m3u8
+#EXTINF:-1,BS NIPPON
+http://211.21.12.236:11935/live/bs02.stream/playlist.m3u8
+#EXTINF:-1,NIPPON DRAMA
+http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8
+#EXTINF:-1,FAMILY GEKIJO
+http://51.79.193.108:8080/hls/j00011/index.m3u8?type=jp
+#EXTINF:-1,EISEI GEKIJO
+http://51.79.193.108:8080/hls/j00001/index.m3u8?type=jp
+#EXTINF:-1,フジテレビONE
+http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
+#EXTINF:-1,スカイ・エー
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
+#EXTINF:-1,日テレG+
+http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8
+#EXTINF:-1,時代劇専門チャンネル HD
+http://51.79.193.108:8080/hls/j00002/index.m3u8?type=jp
+#EXTINF:-1,NHK WORLD JAPAN
+https://nhkworld.webcdn.stream.ne.jp/.../2003458/live.m3u8
+#EXTINF:-1,NHK G
+http://211.21.12.236:11935/live/gd01.stream/playlist.m3u8
+#EXTINF:-1,NHK E
+http://211.21.12.236:11935/live/gd02.stream/playlist.m3u8
+#EXTINF:-1,NHK BS1
+http://211.21.12.236:11935/live/bs01.stream/playlist.m3u8
+#EXTINF:-1,NHK BSP
+http://211.21.12.236:11935/live/bs14.stream/playlist.m3u8
+#EXTINF:-1,TBS
+http://211.21.12.236:11935/live/gd04.stream/playlist.m3u8
+#EXTINF:-1,TBS 1
+http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
+#EXTINF:-1,BS-TBS
+http://211.21.12.236:11935/live/bs04.stream/playlist.m3u8
+#EXTINF:-1,TBS NEWS
+http://211.21.12.236:11935/live/cs15.stream/playlist.m3u8
+#EXTINF:-1,STAR 1
+http://211.21.12.236:11935/live/bs10.stream/playlist.m3u8
+#EXTINF:-1,STAR 2
+http://211.21.12.236:11935/live/bs11.stream/playlist.m3u8
+#EXTINF:-1,STAR 3
+http://211.21.12.236:11935/live/bs12.stream/playlist.m3u8
+#EXTINF:-1,CINEMA
+http://211.21.12.236:11935/live/bs09.stream/playlist.m3u8
+#EXTINF:-1,WOWOW LIVE
+http://211.21.12.236:11935/live/bs08.stream/playlist.m3u8
+#EXTINF:-1,WOWOW PRIME
+http://211.21.12.236:11935/live/bs07.stream/playlist.m3u8
+#EXTINF:-1,JAPAN MUSIC
+http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8
+#EXTINF:-1,NIHON EIGA
+http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1,J SPORTS 1
+http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1,J SPORTS 2
+http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1,J SPORTS 3
+http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8
+#EXTINF:-1,J SPORTS 4
+http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8
+#EXTINF:-1,GAORA SPORTS
+http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8
+#EXTINF:-1,GOLF NETWORK
+http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1,6ABC
+http://211.21.12.236:11935/live/gx06.stream/playlist.m3u8
+#EXTINF:-1,KANSAI TV
+http://211.21.12.236:11935/live/gx05.stream/playlist.m3u8
+#EXTINF:-1,SUN TV
+http://211.21.12.236:11935/live/gx08.stream/playlist.m3u8
+#EXTINF:-1,YTV
+http://211.21.12.236:11935/live/gx03.stream/playlist.m3u8
+#EXTINF:-1,MBS
+http://211.21.12.236:11935/live/gx04.stream/playlist.m3u8
+#EXTINF:-1,ANIMAX
+http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
+#EXTINF:-1,ANIBOX
+https://56a6b9c3b5417.streamlock.net/.../playlist_sltha.m3u8
+#EXTINF:-1,WEATHER NEWS
+http://movie.mcas.jp/.../smil:wn1.../chunklist_b1800000.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-0.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-1.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-2.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-3.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-4.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-5.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-5.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-7.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-8.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-9.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-10.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-11.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-12.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-13.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-14.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-15.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-16.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-17.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-18.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-19.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-20.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-21.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-22.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-23.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-24.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-25.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-26.m3u8
+#EXTINF:-1,HD
+http://tvn.x10.bz/xchannel/master-27.m3u8
+http://tvn.x10.bz/xchannel/master-28.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-29.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-30.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-31.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-32.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-33.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-34.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-35.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-36.m3u8
+#EXTINF:-1,
+http://tvn.x10.bz/xchannel/master-37.m3u8
